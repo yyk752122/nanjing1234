@@ -8,3 +8,6 @@ class TestLogin:
 
     def test_login_003(self):
         assert 1
+
+    def test_login_004(self):
+        assert 1
